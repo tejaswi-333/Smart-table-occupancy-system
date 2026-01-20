@@ -17,8 +17,8 @@
 // --- 1. CONFIGURE YOUR SETTINGS ---
 
 // Set your WiFi network credentials
-const char* WIFI_SSID = "tejureddy";     // Your WiFi Name
-const char* WIFI_PASSWORD = "tejureddy"; // Your WiFi Password
+const char* WIFI_SSID = " ";     // Your WiFi Name
+const char* WIFI_PASSWORD = " "; // Your WiFi Password
 
 // Define the pins for Table 1 (Existing)
 const int pirPin1 = 27;  // GPIO 27 for PIR sensor 1
